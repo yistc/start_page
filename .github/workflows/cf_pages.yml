@@ -3,7 +3,7 @@ name: CF Pages
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
