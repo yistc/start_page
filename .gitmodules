@@ -1,0 +1,3 @@
+[submodule "sui2"]
+	path = sui2
+	url = https://github.com/yistc/sui2
