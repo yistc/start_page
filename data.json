@@ -6,22 +6,10 @@
             {"name":"Introduction Page","url":"https://yangchenx.com/","icon":"all-inclusive"},
             {"name":"Pocket Casts","url":"https://play.pocketcasts.com/new-releases","icon":"podcast"},
             {"name":"Blog 一雨游","url":"https://typlog.com/admin/yiyuyou/posts","icon":"post-outline"},
-            {"name":"Blog","url":"https://yis.tc","icon":"lead-pencil"},
             {"name":"Sui2 Repo","url":"https://github.com/yistc/sui2","icon":"eiffel-tower"},
             {"name":"Test testff","url":"https://github.com/yistc/sui2","icon":"eiffel-tower"}
           ]
-        },
-      {
-        "name": "Services",
-        "items": [
-          {"name":"Uptime Kuma","url":"https://uptime.yistc.me/dashboard","icon":"hexagon-outline"},
-          {"name":"qBitorrent","url":"https://nc18.yistc.me/qbt/","icon":"arrow-down-bold-circle-outline"},
-          {"name":"AriaNG","url":"https://nc18.yistc.me/ariang/#!/downloading","icon":"cloud-download-outline"},
-          {"name":"Miniflux","url":"https://miniflux.yistc.me/unread","icon":"rss"},
-          {"name":"RSSHub","url":"https://rsshub.yistc.me/","icon":"rss-box"},
-          {"name":"MicroBin","url":"https://t.yis.tc","icon":"cannabis"}
-        ]
-      }
+        }
     ],
     "bookmarks" : [
       {
@@ -30,14 +18,6 @@
           {
             "name": "Discord",
             "url": "https://discord.com/channels/@me"
-          },
-          {
-            "name": "Gmail",
-            "url": "http://gmail.com"
-          },
-          {
-            "name": "Reddit",
-            "url": "https://www.reddit.com"
           }
         ]
       },
@@ -48,10 +28,6 @@
             "name": "Dropbox-Personal",
             "url": "https://www.dropbox.com/personal"
           },
-          {
-              "name": "Dropbox-Team",
-              "url": "https://www.dropbox.com/work"
-            },
           {
             "name": "Drive",
             "url": "https://drive.google.com"
@@ -64,10 +40,6 @@
           {
             "name": "Devdocs",
             "url": "https://devdocs.io"
-          },
-          {
-            "name": "Devhints",
-            "url": "https://devhints.io"
           }
         ]
       },
@@ -77,27 +49,10 @@
           {
             "name": "Color Hunt",
             "url": "https://colorhunt.co/"
-          },
-          {
-            "name": "Z Library",
-            "url": "https://b-ok.global/"
-          },
+          }
           {
             "name": "IP Info",
             "url": "https://ip.skk.moe/"
-          },
-          {
-            "name": "Squoosh",
-            "url": "https://squoosh.app/"
-          }
-        ]
-      },
-      {
-        "category": "Others",
-        "links": [
-          {
-            "name": "Youtube Music",
-            "url": "https://music.youtube.com/"
           }
         ]
       }
