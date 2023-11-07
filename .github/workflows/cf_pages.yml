@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+permissions:
+  deployments: write
+
 jobs:
   deploy:
     runs-on: ubuntu-20.04
@@ -54,5 +57,6 @@ jobs:
           projectName: start-page
           directory: sui2/dist
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
 
       
